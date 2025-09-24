@@ -35,3 +35,5 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Jinger-ui&theme=xcode"
   />
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinger-ui)
