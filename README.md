@@ -1,29 +1,24 @@
 <p align="center">
-  <img src="assets/1.png" width="880" alt="Banner" />
+  <img src="assets/1.png" width="1760" alt="Banner" />
 </p>
 
 <div align="center">
 
-## <img src="assets/emotes/e09.png" height="40" alt="" /> Cleveland · `@Jinger-ui`
+## <img src="assets/emotes/e09.png" height="128" alt="" /> Cleveland · `@Jinger-ui`
 
 **Full-stack · RAG · LLM Agents · BERT-era NLP**
-
-<p>
-<a href="https://github.com/Jinger-ui"><img src="https://img.shields.io/badge/GitHub-Jinger--ui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://jinger-ui.github.io/github-profilo"><img src="https://img.shields.io/badge/Portfolio-Site-0a192f?style=for-the-badge&logo=googlechrome&logoColor=64FFDA" alt="Portfolio" /></a>
-</p>
 
 </div>
 
 ---
 
-### <img src="assets/emotes/e01.png" height="32" alt="" /> About me
+### <img src="assets/emotes/e01.png" height="104" alt="" /> About me
 
 I'm a developer who likes turning **papers and prototypes into software you can ship**: retrieval pipelines, agents with tools, and encoder models that behave well in production. I care about clear evaluation for RAG, predictable agent traces, and BERT-family encoders when you need dense vectors, classifiers, or a cheap baseline before scaling up.
 
 ---
 
-### <img src="assets/emotes/e03.png" height="32" alt="" /> Core technical focus
+### <img src="assets/emotes/e03.png" height="104" alt="" /> Core technical focus
 
 | Area | What I actually work on |
 |------|-------------------------|
@@ -33,7 +28,7 @@ I'm a developer who likes turning **papers and prototypes into software you can 
 
 ---
 
-### <img src="assets/emotes/e07.png" height="32" alt="" /> Full-stack engineering
+### <img src="assets/emotes/e07.png" height="104" alt="" /> Full-stack engineering
 
 Comfortable owning features **end-to-end**: API design, persistence, deployment, and a pragmatic front end when the product needs it. Typical stack overlaps:
 
@@ -54,18 +49,9 @@ Comfortable owning features **end-to-end**: API design, persistence, deployment,
 
 ---
 
-### <img src="assets/emotes/e05.png" height="32" alt="" /> Where I’m heading next
+### <img src="assets/emotes/e05.png" height="104" alt="" /> Where I’m heading next
 
 Two directions I’d like to go deeper soon:
 
 1. **Federated learning & privacy-preserving ML** — training and updating models with decentralized data without centralizing sensitive payloads  
 2. **Embedded / edge development** — smaller deploy targets, efficient inference stacks, and hardware-aware agents outside the comfy cloud default
-
-Ping me if you’re building in either space.
-
----
-
-### <img src="assets/emotes/e10.png" height="32" alt="" /> Quick extras
-
-- **Comfort zone:** structuring messy knowledge into retrieval-friendly stores and agent-safe tools  
-- **Working style:** small experiments → measurable uplift → refactor for maintainability  
