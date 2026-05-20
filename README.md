@@ -2,22 +2,9 @@
   <img src="assets/1.png" width="880" alt="Banner" />
 </p>
 
-<!-- Expression strip from assets/2.png (3×3 split) -->
-<p align="center" aria-hidden="true">
-  <img src="assets/emotes/neutral.png" width="48" alt="" />
-  <img src="assets/emotes/happy.png" width="48" alt="" />
-  <img src="assets/emotes/sleep.png" width="48" alt="" />
-  <img src="assets/emotes/surprised.png" width="48" alt="" />
-  <img src="assets/emotes/thinking.png" width="48" alt="" />
-  <img src="assets/emotes/smug.png" width="48" alt="" />
-  <img src="assets/emotes/shy.png" width="48" alt="" />
-  <img src="assets/emotes/determined.png" width="48" alt="" />
-  <img src="assets/emotes/magic.png" width="48" alt="" />
-</p>
-
 <div align="center">
 
-## Cleveland · `@Jinger-ui`
+## <img src="assets/emotes/e09.png" height="40" alt="" /> Cleveland · `@Jinger-ui`
 
 **Full-stack · RAG · LLM Agents · BERT-era NLP**
 
@@ -26,25 +13,17 @@
 <a href="https://jinger-ui.github.io/github-profilo"><img src="https://img.shields.io/badge/Portfolio-Site-0a192f?style=for-the-badge&logo=googlechrome&logoColor=64FFDA" alt="Portfolio" /></a>
 </p>
 
-<sub>Sticker expressions above are cropped from <code>assets/2.png</code> · chibi sprites for section flair</sub>
-
 </div>
 
 ---
 
-<h3 align="center">Profile / Resume</h3>
-
-<img align="right" width="76" src="assets/emotes/thinking.png" alt="Thinking sticker" />
-
-### About me
+### <img src="assets/emotes/e01.png" height="32" alt="" /> About me
 
 I'm a developer who likes turning **papers and prototypes into software you can ship**: retrieval pipelines, agents with tools, and encoder models that behave well in production. I care about clear evaluation for RAG, predictable agent traces, and BERT-family encoders when you need dense vectors, classifiers, or a cheap baseline before scaling up.
 
 ---
 
-<img align="right" width="76" src="assets/emotes/magic.png" alt="Magic sticker" />
-
-### Core technical focus
+### <img src="assets/emotes/e03.png" height="32" alt="" /> Core technical focus
 
 | Area | What I actually work on |
 |------|-------------------------|
@@ -54,9 +33,7 @@ I'm a developer who likes turning **papers and prototypes into software you can 
 
 ---
 
-<img align="right" width="76" src="assets/emotes/determined.png" alt="Determined sticker" />
-
-### Full-stack engineering
+### <img src="assets/emotes/e07.png" height="32" alt="" /> Full-stack engineering
 
 Comfortable owning features **end-to-end**: API design, persistence, deployment, and a pragmatic front end when the product needs it. Typical stack overlaps:
 
@@ -73,13 +50,11 @@ Comfortable owning features **end-to-end**: API design, persistence, deployment,
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<sub>Exact logos may vary by project—that’s intentional; swap in your dominant stack badges if needed.</sub>
+<sub>Stacks shift per project—swap badges to match what you mostly ship.</sub>
 
 ---
 
-<img align="right" width="76" src="assets/emotes/happy.png" alt="Happy sticker" />
-
-### Where I’m heading next
+### <img src="assets/emotes/e05.png" height="32" alt="" /> Where I’m heading next
 
 Two directions I’d like to go deeper soon:
 
@@ -90,13 +65,7 @@ Ping me if you’re building in either space.
 
 ---
 
-### Quick extras
-
-<img align="right" width="74" src="assets/emotes/shy.png" alt="" />
+### <img src="assets/emotes/e10.png" height="32" alt="" /> Quick extras
 
 - **Comfort zone:** structuring messy knowledge into retrieval-friendly stores and agent-safe tools  
 - **Working style:** small experiments → measurable uplift → refactor for maintainability  
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jinger-ui&label=Views&color=64748b&style=flat-square" alt="Profile views" />
-</p>
