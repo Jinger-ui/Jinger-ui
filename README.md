@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="assets/frieren-cartoon-motif.svg" width="760" alt="Original Q-style elf traveler with butterflies and magic circles (Frieren-inspired palette)" />
+  <img src="assets/1.png" width="880" alt="葬送的芙莉莲风格旅途场景横幅（用户提供的背景图）" />
 </p>
 <p align="center">
-  <sub>二次元旅途角 · 静谧薄荷绿配白袍风 · 🦋 📜 ✨ （原创矢量卡通）</sub>
+  <sub>横幅底图：<code>assets/1.png</code> · 右侧留白适合叠放简介与徽章 · 🦋 📜 ✨</sub>
 </p>
 
 <p align="center">
