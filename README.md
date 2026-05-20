@@ -1,6 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Cleveland+%2F+Jinger-ui;Security+Researcher+%7C+Software+Engineer;Cryptography+%C3%97+AI+%C3%97+Cloud+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=64FFDA&center=true&vCenter=true&random=false&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Cleveland+%2F+Jinger-ui;Security+Researcher+%7C+Software+Engineer;Cryptography+%C3%97+AI+%C3%97+Cloud+Security;%E2%9C%A8+Nostalgic+tech+journey+-+like+collecting+little+spells" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="assets/frieren-cartoon-motif.svg" width="760" alt="Original Q-style elf traveler with butterflies and magic circles (Frieren-inspired palette)" />
+</p>
+<p align="center">
+  <sub>二次元旅途角 · 静谧薄荷绿配白袍风 · 🦋 📜 ✨ （原创矢量卡通）</sub>
+</p>
+
+<p align="center">
+  <i>「安全像魔法一样，需要一点一滴的理解与复盘」— 主页主题致敬《葬送的芙莉莲》：漫长的修行、温柔的坚持、与伙伴们并肩的回路。</i>
+</p>
 
 <p align="center">
   <a href="https://jinger-ui.github.io/github-profilo"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=googlechrome&logoColor=0a192f" alt="Portfolio" /></a>
@@ -9,6 +20,22 @@
 </p>
 
 <p align="center"><b>专注于安全与智能的交汇 — LLM 应用与评测、数据建模与查询优化、多方安全计算</b></p>
+
+---
+
+## 📜 「旅途日志」Mini About
+
+<details>
+<summary>🎀 点击查看：芙莉莲风行程条（卖萌版）</summary>
+
+| 符文格 | 状态 |
+|:---:|:---|
+| 🧭 **冒险据点** | 新加坡 · NUS ISA |
+| 📖 **装订术式** | 密码学 × 多方安全 × LLM/RAG |
+| 🦋 **日常课题** | 模型评测、结构化问答、云上合规 |
+| ⏳ **时间魔法** | 研究可复现、笔记可回溯、复盘像收集魔法条目 |
+
+</details>
 
 ---
 
@@ -132,9 +159,9 @@ languages: [English, Mandarin]
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jinger-ui&color=64ffda&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jinger-ui&color=a8e6cf&style=flat-square&label=Frieren+Porch+Visitors" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>"安全优先、可解释、可复现"</i>
+  <i>旅途未尽 — 「安全优先、可解释、可复现」与一点点魔法仪式感 ✨</i>
 </p>
