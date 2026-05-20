@@ -10,13 +10,9 @@
 
 </div>
 
----
-
 ### <img src="assets/emotes/e01.png" height="104" alt="" /> About me
 
 I'm a developer who likes turning **papers and prototypes into software you can ship**: retrieval pipelines, agents with tools, and encoder models that behave well in production. I care about clear evaluation for RAG, predictable agent traces, and BERT-family encoders when you need dense vectors, classifiers, or a cheap baseline before scaling up.
-
----
 
 ### <img src="assets/emotes/e03.png" height="104" alt="" /> Core technical focus
 
@@ -25,8 +21,6 @@ I'm a developer who likes turning **papers and prototypes into software you can 
 | **RAG** | Chunking strategies, hybrid / dense retrieval, re-ranking, grounding, hallucination mitigation, retrieval eval harnesses |
 | **Agents** | Tool calling, planners & orchestration patterns, retries & guardrails, logging / observability for multi-step flows |
 | **BERT & encoders** | Fine-tuning and inference for classification & embeddings, distill / route models, pairing encoders with vector stores |
-
----
 
 ### <img src="assets/emotes/e07.png" height="104" alt="" /> Full-stack engineering
 
@@ -46,8 +40,6 @@ Comfortable owning features **end-to-end**: API design, persistence, deployment,
 </p>
 
 <sub>Stacks shift per project—swap badges to match what you mostly ship.</sub>
-
----
 
 ### <img src="assets/emotes/e05.png" height="104" alt="" /> Where I’m heading next
 
