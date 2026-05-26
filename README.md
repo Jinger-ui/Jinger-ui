@@ -4,17 +4,17 @@
 
 <div align="center">
 
-## <img src="assets/emotes/e09.png" height="72" alt="" /> Cleveland · `@Jinger-ui`
+## <img src="assets/emotes/e09.png" height="32" align="middle" alt="" /> Cleveland · `Jinger-ui`
 
 **Full-stack · RAG · LLM Agents · BERT-era NLP**
 
 </div>
 
-### <img src="assets/emotes/e01.png" height="56" alt="" /> About me
+## <img src="assets/emotes/e01.png" height="32" align="middle" alt="" /> About me
 
 I'm a developer who likes turning **papers and prototypes into software you can ship**: retrieval pipelines, agents with tools, and encoder models that behave well in production. I care about clear evaluation for RAG, predictable agent traces, and BERT-family encoders when you need dense vectors, classifiers, or a cheap baseline before scaling up.
 
-### <img src="assets/emotes/e03.png" height="56" alt="" /> Core technical focus
+## <img src="assets/emotes/e03.png" height="32" align="middle" alt="" /> Core technical focus
 
 | Area | What I actually work on |
 |------|-------------------------|
@@ -22,7 +22,7 @@ I'm a developer who likes turning **papers and prototypes into software you can 
 | **Agents** | Tool calling, planners & orchestration patterns, retries & guardrails, logging / observability for multi-step flows |
 | **BERT & encoders** | Fine-tuning and inference for classification & embeddings, distill / route models, pairing encoders with vector stores |
 
-### <img src="assets/emotes/e07.png" height="56" alt="" /> Full-stack engineering
+## <img src="assets/emotes/e07.png" height="32" align="middle" alt="" /> Full-stack engineering
 
 Comfortable owning features **end-to-end**: API design, persistence, deployment, and a pragmatic front end when the product needs it. Typical stack overlaps:
 
@@ -41,7 +41,7 @@ Comfortable owning features **end-to-end**: API design, persistence, deployment,
 
 <sub>Stacks shift per project—swap badges to match what you mostly ship.</sub>
 
-### <img src="assets/emotes/e05.png" height="56" alt="" /> Where I’m heading next
+## <img src="assets/emotes/e05.png" height="32" align="middle" alt="" /> Where I’m heading next
 
 Two directions I’d like to go deeper soon:
 
